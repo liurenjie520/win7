@@ -9,7 +9,8 @@
 64 位旗舰版官方链接：
 http://download.microsoft.com/download/5/1/9/5195A765-3A41-4A72-87D8-200D897CBE21/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso
 SHA1: 7CC76B0015220DE956328FB934D61B710A94293D
-b站链接：
+
+b站链接：453b9e9efd9669b1353fe2ef6c9a7f4f531be81d
 
 win7语言包：
 
